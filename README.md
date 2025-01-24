@@ -4,7 +4,7 @@
 ## Overview
 The Sokoban Warehouse Game is implemented in Assembly language for an 8x8 LED matrix-based environment. The game features player-controlled movement to push a box onto a designated target while avoiding obstacles such as walls. The implementation includes multiplayer support and an improved random number generator. 
 
-# I have included the official documentation in a pdf format in this repo.
+* I have included the official documentation in a pdf format in this repo.
 
 ## License
 The project repsitory is not public according to the Academic Conduct of UofT, for access to the private repo email me at hj.shah@mail.utoronto.ca
