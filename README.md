@@ -1,4 +1,3 @@
-# Sokoban
 # Sokoban Warehouse Game (Assembly Implementation)
 
 ## Overview
